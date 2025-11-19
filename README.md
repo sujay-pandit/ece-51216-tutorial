@@ -52,9 +52,10 @@ This lab guides you through the essential steps of digital design automation:
 
 ---
 
----
-
 **Course:** ECE 51216 - Digital Systems Design Automation  
+
 **Instructor:** Prof. Anand Raghunathan  
+
 **TA:** Sujay Pandit
+
 **Institution:** Purdue University, School of Electrical and Computer Engineering
