@@ -30,8 +30,8 @@ This lab guides you through the essential steps of digital design automation:
 | `script_synth.ys` | Yosys synthesis script |
 | `script_equivalence.ys` | Logic equivalence checking script |
 | `timingpower.tcl` | OpenSTA timing/power analysis script |
-| `*.v` | Verilog RTL design files |
-| `*.lib` | SkyWater 130nm standard cell libraries |
+| `verilog/*.v` | Verilog RTL design files |
+| `lib/*.lib` | SkyWater 130nm standard cell libraries |
 | `ece51216_hw5.pdf` | Complete assignment instructions |
 
 ---
